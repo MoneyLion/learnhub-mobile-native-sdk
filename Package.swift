@@ -10,8 +10,8 @@ let package = Package(
     targets: [
         .binaryTarget(
             name: "LearnHubSDK",
-            url: "https://github.com/MoneyLion/learnhub-mobile-native-sdk/releases/download/0.2.0/LearnHubSDK-0.2.0.xcframework.zip",
-            checksum: "9e9673fd42d5ee763e0483663d2a3f1cbd3951379181d63cc233d3bcc1497988"
+            url: "https://github.com/MoneyLion/learnhub-mobile-native-sdk/releases/download/0.3.0/LearnHubSDK-0.3.0.xcframework.zip",
+            checksum: "7a149c235e9111704453c8bb085f050b392f5979652beb99e5f09dca6e65f19a"
         ),
     ]
 )
